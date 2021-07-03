@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmlns:orgomg.cwm.resource.record="http:///orgomg/cwm/resource/record.ecore">
+  <TalendMetadata:FileExcelConnection xmi:id="_5UcMsbK7Eey0lePowAkjTQ" name="vendedor_metadado" id="_5UcMsLK7Eey0lePowAkjTQ" dataPackage="_5UcMsrK7Eey0lePowAkjTQ" Server="Localhost 127.0.0.1" FilePath="C:/Users/wise/Desktop/talend/datasets/Notas Fiscais.xls" Encoding="ISO-8859-1" UseHeader="true" HeaderValue="1" FirstLineCaption="true" SheetName="Nota Fiscal" firstColumn="1" thousandSeparator="','" decimalSeparator="'.'" sheetList="vendedor:w&#xA;">
+    <sheetColumns>A</sheetColumns>
+    <sheetColumns>B</sheetColumns>
+    <sheetColumns>C</sheetColumns>
+    <sheetColumns>D</sheetColumns>
+    <sheetColumns>E</sheetColumns>
+    <sheetColumns>F</sheetColumns>
+    <sheetColumns>G</sheetColumns>
+    <sheetColumns>H</sheetColumns>
+    <sheetColumns>I</sheetColumns>
+    <sheetColumns>J</sheetColumns>
+    <sheetColumns>K</sheetColumns>
+    <sheetColumns>L</sheetColumns>
+    <sheetColumns>M</sheetColumns>
+    <sheetColumns>N</sheetColumns>
+    <sheetColumns>O</sheetColumns>
+    <sheetColumns>P</sheetColumns>
+    <sheetColumns>Q</sheetColumns>
+    <sheetColumns>R</sheetColumns>
+    <sheetColumns>S</sheetColumns>
+    <sheetColumns>T</sheetColumns>
+    <sheetColumns>U</sheetColumns>
+    <sheetColumns>V</sheetColumns>
+    <sheetColumns>W</sheetColumns>
+    <sheetColumns>X</sheetColumns>
+  </TalendMetadata:FileExcelConnection>
+  <orgomg.cwm.resource.record:RecordFile xmi:id="_5UcMsrK7Eey0lePowAkjTQ" name="default" dataManager="_5UcMsbK7Eey0lePowAkjTQ">
+    <ownedElement xsi:type="TalendMetadata:MetadataTable" xmi:id="_5UcMs7K7Eey0lePowAkjTQ" id="_zgnM4LK7Eey0lePowAkjTQ" label="metadata">
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_5UcMtLK7Eey0lePowAkjTQ" label="cod_vendedor" length="-1" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_5UcMtbK7Eey0lePowAkjTQ" label="des_vendedor" length="15" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+    </ownedElement>
+  </orgomg.cwm.resource.record:RecordFile>
+</xmi:XMI>

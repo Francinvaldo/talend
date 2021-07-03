@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmlns:orgomg.cwm.resource.record="http:///orgomg/cwm/resource/record.ecore">
+  <TalendMetadata:FileExcelConnection xmi:id="_3_sK0bK8Eey0lePowAkjTQ" name="departamento_metadado" dataPackage="_3_sK0rK8Eey0lePowAkjTQ" Server="Localhost 127.0.0.1" FilePath="C:/Users/wise/Desktop/talend/datasets/Notas Fiscais.xls" Encoding="ISO-8859-1" UseHeader="true" HeaderValue="1" FirstLineCaption="true" SheetName="Nota Fiscal" firstColumn="1" thousandSeparator="','" decimalSeparator="'.'" sheetList="Departamento:w&#xA;">
+    <sheetColumns>A</sheetColumns>
+    <sheetColumns>B</sheetColumns>
+    <sheetColumns>C</sheetColumns>
+    <sheetColumns>D</sheetColumns>
+    <sheetColumns>E</sheetColumns>
+    <sheetColumns>F</sheetColumns>
+    <sheetColumns>G</sheetColumns>
+    <sheetColumns>H</sheetColumns>
+    <sheetColumns>I</sheetColumns>
+    <sheetColumns>J</sheetColumns>
+    <sheetColumns>K</sheetColumns>
+    <sheetColumns>L</sheetColumns>
+    <sheetColumns>M</sheetColumns>
+    <sheetColumns>N</sheetColumns>
+    <sheetColumns>O</sheetColumns>
+    <sheetColumns>P</sheetColumns>
+    <sheetColumns>Q</sheetColumns>
+    <sheetColumns>R</sheetColumns>
+    <sheetColumns>S</sheetColumns>
+    <sheetColumns>T</sheetColumns>
+    <sheetColumns>U</sheetColumns>
+    <sheetColumns>V</sheetColumns>
+    <sheetColumns>W</sheetColumns>
+    <sheetColumns>X</sheetColumns>
+  </TalendMetadata:FileExcelConnection>
+  <orgomg.cwm.resource.record:RecordFile xmi:id="_3_sK0rK8Eey0lePowAkjTQ" name="default" dataManager="_3_sK0bK8Eey0lePowAkjTQ">
+    <ownedElement xsi:type="TalendMetadata:MetadataTable" xmi:id="_3_sK07K8Eey0lePowAkjTQ" id="_yNp6wLK8Eey0lePowAkjTQ" label="metadata">
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_3_sK1LK8Eey0lePowAkjTQ" label="cod_departamento" length="1" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_3_sK1bK8Eey0lePowAkjTQ" label="Departamento" length="15" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_3_sK1rK8Eey0lePowAkjTQ" label="cod_gerencia" length="1" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+    </ownedElement>
+  </orgomg.cwm.resource.record:RecordFile>
+</xmi:XMI>
